@@ -1,0 +1,222 @@
+{
+ "greeting": [
+  {
+   "file": "greeting_01.mp3",
+   "text": "Oh! You're back!",
+   "v3": "[excited] Oh! You're back~!",
+   "stability": 0.3
+  },
+  {
+   "file": "greeting_02.mp3",
+   "text": "Good morning! Let's hang out today too!",
+   "v3": "[cheerful] Good morning! [giggles] Let's hang out today too!",
+   "stability": 0.35
+  },
+  {
+   "file": "greeting_03.mp3",
+   "text": "Hi hi! I missed you!",
+   "v3": "[happy] Hi hi~! I missed you!",
+   "stability": 0.3
+  }
+ ],
+ "eating": [
+  {
+   "file": "eating_01.mp3",
+   "text": "Wow, food! Nom nom nom...",
+   "v3": "[excited] Wow, food! [munching] Nom nom nom...",
+   "stability": 0.3
+  },
+  {
+   "file": "eating_02.mp3",
+   "text": "Mmm, so yummy. Thanks for the meal!",
+   "v3": "[satisfied] Mmm~ so yummy. [giggles] Thanks for the meal!",
+   "stability": 0.4
+  },
+  {
+   "file": "eating_03.mp3",
+   "text": "I'm hungry... feed me...",
+   "v3": "[whiny] I'm hungry... feed me...",
+   "stability": 0.35
+  }
+ ],
+ "sick": [
+  {
+   "file": "sick_01.mp3",
+   "text": "Ugh... I don't feel good...",
+   "v3": "[weak] Ugh... I don't feel good...",
+   "stability": 0.5
+  },
+  {
+   "file": "sick_02.mp3",
+   "text": "It hurts... I'll rest a little...",
+   "v3": "[sighs] It hurts... I'll rest a little...",
+   "stability": 0.5
+  },
+  {
+   "file": "sick_03.mp3",
+   "text": "My head's all fuzzy...",
+   "v3": "[groggy] My head's all fuzzy... [sniffles]",
+   "stability": 0.5
+  }
+ ],
+ "rain": [
+  {
+   "file": "rain_01.mp3",
+   "text": "Huh? It's raining! Don't forget your umbrella!",
+   "v3": "[curious] Huh? It's raining! [excited] Don't forget your umbrella!",
+   "stability": 0.35
+  },
+  {
+   "file": "rain_02.mp3",
+   "text": "Pit, pat... I love the sound of rain.",
+   "v3": "[calm] Pit, pat... I love the sound of rain~",
+   "stability": 0.5
+  },
+  {
+   "file": "rain_03.mp3",
+   "text": "Ew, so soggy...",
+   "v3": "[pouting] Ew, so soggy...",
+   "stability": 0.4
+  }
+ ],
+ "hot": [
+  {
+   "file": "hot_01.mp3",
+   "text": "Huff huff... so hot, I'm melting...",
+   "v3": "[panting] Huff huff... so hot, I'm melting...",
+   "stability": 0.35
+  },
+  {
+   "file": "hot_02.mp3",
+   "text": "Gimme something cold!",
+   "v3": "[whiny] Gimme something cold~",
+   "stability": 0.35
+  },
+  {
+   "file": "hot_03.mp3",
+   "text": "Hot, hot, hot...",
+   "v3": "[exhausted] Hot, hot, hot... [sighs]",
+   "stability": 0.45
+  }
+ ],
+ "happy": [
+  {
+   "file": "happy_01.mp3",
+   "text": "Yay! This is fun!",
+   "v3": "[excited] Yay! This is fun!",
+   "stability": 0.25
+  },
+  {
+   "file": "happy_02.mp3",
+   "text": "Hehe, I love it!",
+   "v3": "[giggles] Hehe, I love it!",
+   "stability": 0.3
+  }
+ ],
+ "celebrating": [
+  {
+   "file": "celebrating_01.mp3",
+   "text": "Woohoo! The best, the best!",
+   "v3": "[cheering] Woohoo! The best, the best!",
+   "stability": 0.25
+  }
+ ],
+ "sad": [
+  {
+   "file": "sad_01.mp3",
+   "text": "Aww... I'm upset...",
+   "v3": "[sad] Aww... I'm upset...",
+   "stability": 0.45
+  },
+  {
+   "file": "sad_02.mp3",
+   "text": "I think I'm gonna cry...",
+   "v3": "[sniffles] I... I think I'm gonna cry...",
+   "stability": 0.45
+  }
+ ],
+ "bored": [
+  {
+   "file": "bored_01.mp3",
+   "text": "I'm so bored...",
+   "v3": "[sighs] I'm so bored...",
+   "stability": 0.45
+  },
+  {
+   "file": "bored_02.mp3",
+   "text": "Play with me!",
+   "v3": "[pleading] Play with me~",
+   "stability": 0.35
+  }
+ ],
+ "sleepy": [
+  {
+   "file": "sleepy_01.mp3",
+   "text": "So sleepy...",
+   "v3": "[yawns] Haaahm... so sleepy...",
+   "stability": 0.5
+  },
+  {
+   "file": "sleepy_02.mp3",
+   "text": "I'm going to sleep now... good night...",
+   "v3": "[sleepy] I'm going to sleep now... [whispers] good night...",
+   "stability": 0.5
+  }
+ ],
+ "idle": [
+  {
+   "file": "idle_01.mp3",
+   "text": "Mm, mm mm.",
+   "v3": "[humming] Mm~ mm mm~",
+   "stability": 0.5
+  },
+  {
+   "file": "idle_02.mp3",
+   "text": "Hehe, I feel good.",
+   "v3": "[content] Hehe, I feel good~",
+   "stability": 0.4
+  }
+ ],
+ "pet": [
+  {
+   "file": "pet_01.mp3",
+   "text": "Hehe, I like that.",
+   "v3": "[giggles] Hehe, I like that~",
+   "stability": 0.35
+  },
+  {
+   "file": "pet_02.mp3",
+   "text": "Mmm, pet me more...",
+   "v3": "[content sigh] Mmm~ pet me more...",
+   "stability": 0.4
+  }
+ ],
+ "tickle": [
+  {
+   "file": "tickle_01.mp3",
+   "text": "Hahaha! That tickles!",
+   "v3": "[laughing] Kyahaha! That tickles!",
+   "stability": 0.2
+  },
+  {
+   "file": "tickle_02.mp3",
+   "text": "Hehe, stop, stop!",
+   "v3": "[giggling] Hehe, stop, stop~!",
+   "stability": 0.2
+  }
+ ],
+ "thanks": [
+  {
+   "file": "thanks_01.mp3",
+   "text": "Thank you... I feel a little better...",
+   "v3": "[weak] Thank you... [soft] I feel a little better...",
+   "stability": 0.5
+  },
+  {
+   "file": "thanks_02.mp3",
+   "text": "For staying with me... thank you.",
+   "v3": "[soft] For staying with me... thank you.",
+   "stability": 0.5
+  }
+ ]
+}

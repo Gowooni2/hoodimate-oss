@@ -1,0 +1,41 @@
+{
+ "name": "Mongsil",
+ "names": {
+  "ko": "몽실",
+  "en": "Mongsil",
+  "zh": "蒙实"
+ },
+ "order": 0,
+ "persona": {
+  "ko": "구름 모양 후드를 푹 눌러쓴 아이보리색 후디즈 친구",
+  "en": "an ivory hoodie friend with a cloud-shaped hood pulled down low",
+  "zh": "戴着云朵形状兜帽的象牙色连帽小伙伴"
+ },
+ "spriteSize": [
+  872,
+  983
+ ],
+ "eyes": {
+  "left": [
+   362.0,
+   412.0
+  ],
+  "right": [
+   558.5,
+   405.2
+  ],
+  "radius": 47.6,
+  "lookRange": [
+   16.7,
+   11.9
+  ],
+  "color": "#0B0B0B"
+ },
+ "mouth": null,
+ "face": "#8D7C73",
+ "personality": {
+  "ko": "느긋한 맏이. 낮잠과 간식을 좋아하고, 친구들 사이를 달래 줘요.",
+  "en": "The easygoing one. Loves naps, snacks and keeping the peace.",
+  "zh": "慢悠悠的大哥。爱午睡、爱零食，总在朋友之间打圆场。"
+ }
+}

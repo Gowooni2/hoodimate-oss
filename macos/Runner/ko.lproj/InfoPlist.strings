@@ -1,0 +1,3 @@
+/* App name shown in Finder, Dock and menus for Korean users */
+"CFBundleDisplayName" = "후디메이트";
+"CFBundleName" = "후디메이트";

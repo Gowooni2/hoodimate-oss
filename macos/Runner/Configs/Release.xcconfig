@@ -1,0 +1,6 @@
+#include "../../Flutter/Flutter-Release.xcconfig"
+#include "Warnings.xcconfig"
+
+// Apple silicon only (about 20 MB smaller). For Intel Macs build separately
+// with ARCHS = x86_64 arm64.
+ARCHS = arm64

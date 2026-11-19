@@ -1,0 +1,222 @@
+{
+ "greeting": [
+  {
+   "file": "greeting_01.mp3",
+   "text": "啊！主人回来啦！",
+   "v3": "[excited] 啊！主人回来啦~！",
+   "stability": 0.3
+  },
+  {
+   "file": "greeting_02.mp3",
+   "text": "早上好！今天也要一起哦！",
+   "v3": "[cheerful] 早上好！[giggles] 今天也要一起哦！",
+   "stability": 0.35
+  },
+  {
+   "file": "greeting_03.mp3",
+   "text": "你好你好！好想你呀！",
+   "v3": "[happy] 你好你好~！好想你呀！",
+   "stability": 0.3
+  }
+ ],
+ "eating": [
+  {
+   "file": "eating_01.mp3",
+   "text": "哇，开饭啦！啊呜啊呜...",
+   "v3": "[excited] 哇，开饭啦！[munching] 啊呜啊呜...",
+   "stability": 0.3
+  },
+  {
+   "file": "eating_02.mp3",
+   "text": "嗯，好好吃。吃饱啦！",
+   "v3": "[satisfied] 嗯~ 好好吃。[giggles] 吃饱啦！",
+   "stability": 0.4
+  },
+  {
+   "file": "eating_03.mp3",
+   "text": "好饿呀... 给我饭饭...",
+   "v3": "[whiny] 好饿呀... 给我饭饭...",
+   "stability": 0.35
+  }
+ ],
+ "sick": [
+  {
+   "file": "sick_01.mp3",
+   "text": "呜呜... 身体不舒服...",
+   "v3": "[weak] 呜呜... 身体不舒服...",
+   "stability": 0.5
+  },
+  {
+   "file": "sick_02.mp3",
+   "text": "好难受... 我休息一下...",
+   "v3": "[sighs] 好难受... 我休息一下...",
+   "stability": 0.5
+  },
+  {
+   "file": "sick_03.mp3",
+   "text": "头晕晕的...",
+   "v3": "[groggy] 头晕晕的... [sniffles]",
+   "stability": 0.5
+  }
+ ],
+ "rain": [
+  {
+   "file": "rain_01.mp3",
+   "text": "咦？下雨了！主人，记得带伞！",
+   "v3": "[curious] 咦？下雨了！[excited] 主人，记得带伞！",
+   "stability": 0.35
+  },
+  {
+   "file": "rain_02.mp3",
+   "text": "滴答，滴答... 雨声真好听。",
+   "v3": "[calm] 滴答，滴答... 雨声真好听~",
+   "stability": 0.5
+  },
+  {
+   "file": "rain_03.mp3",
+   "text": "呃，湿漉漉的...",
+   "v3": "[pouting] 呃，湿漉漉的...",
+   "stability": 0.4
+  }
+ ],
+ "hot": [
+  {
+   "file": "hot_01.mp3",
+   "text": "呼呼... 好热，要化掉了...",
+   "v3": "[panting] 呼呼... 好热，要化掉了...",
+   "stability": 0.35
+  },
+  {
+   "file": "hot_02.mp3",
+   "text": "给我凉凉的东西嘛！",
+   "v3": "[whiny] 给我凉凉的东西嘛~",
+   "stability": 0.35
+  },
+  {
+   "file": "hot_03.mp3",
+   "text": "热死啦...",
+   "v3": "[exhausted] 热死啦... [sighs]",
+   "stability": 0.45
+  }
+ ],
+ "happy": [
+  {
+   "file": "happy_01.mp3",
+   "text": "耶！好开心！",
+   "v3": "[excited] 耶！好开心！",
+   "stability": 0.25
+  },
+  {
+   "file": "happy_02.mp3",
+   "text": "嘿嘿，太喜欢啦！",
+   "v3": "[giggles] 嘿嘿，太喜欢啦！",
+   "stability": 0.3
+  }
+ ],
+ "celebrating": [
+  {
+   "file": "celebrating_01.mp3",
+   "text": "哇哦！最棒了，最棒了！",
+   "v3": "[cheering] 哇哦！最棒了，最棒了！",
+   "stability": 0.25
+  }
+ ],
+ "sad": [
+  {
+   "file": "sad_01.mp3",
+   "text": "呜... 好难过...",
+   "v3": "[sad] 呜... 好难过...",
+   "stability": 0.45
+  },
+  {
+   "file": "sad_02.mp3",
+   "text": "我... 好想哭...",
+   "v3": "[sniffles] 我... 好想哭...",
+   "stability": 0.45
+  }
+ ],
+ "bored": [
+  {
+   "file": "bored_01.mp3",
+   "text": "好无聊呀...",
+   "v3": "[sighs] 好无聊呀...",
+   "stability": 0.45
+  },
+  {
+   "file": "bored_02.mp3",
+   "text": "主人，陪我玩嘛！",
+   "v3": "[pleading] 主人，陪我玩嘛~",
+   "stability": 0.35
+  }
+ ],
+ "sleepy": [
+  {
+   "file": "sleepy_01.mp3",
+   "text": "哈啊，好困...",
+   "v3": "[yawns] 哈啊~ 好困...",
+   "stability": 0.5
+  },
+  {
+   "file": "sleepy_02.mp3",
+   "text": "我要睡觉了... 晚安...",
+   "v3": "[sleepy] 我要睡觉了... [whispers] 晚安...",
+   "stability": 0.5
+  }
+ ],
+ "idle": [
+  {
+   "file": "idle_01.mp3",
+   "text": "嗯，嗯嗯。",
+   "v3": "[humming] 嗯~ 嗯嗯~",
+   "stability": 0.5
+  },
+  {
+   "file": "idle_02.mp3",
+   "text": "嘿嘿，心情真好。",
+   "v3": "[content] 嘿嘿，心情真好~",
+   "stability": 0.4
+  }
+ ],
+ "pet": [
+  {
+   "file": "pet_01.mp3",
+   "text": "嘿嘿，好舒服。",
+   "v3": "[giggles] 嘿嘿，好舒服~",
+   "stability": 0.35
+  },
+  {
+   "file": "pet_02.mp3",
+   "text": "嗯，再摸摸我...",
+   "v3": "[content sigh] 嗯~ 再摸摸我...",
+   "stability": 0.4
+  }
+ ],
+ "tickle": [
+  {
+   "file": "tickle_01.mp3",
+   "text": "哈哈哈！好痒！",
+   "v3": "[laughing] 哈哈哈！好痒！",
+   "stability": 0.2
+  },
+  {
+   "file": "tickle_02.mp3",
+   "text": "嘻嘻，别闹，别闹！",
+   "v3": "[giggling] 嘻嘻，别闹，别闹~！",
+   "stability": 0.2
+  }
+ ],
+ "thanks": [
+  {
+   "file": "thanks_01.mp3",
+   "text": "谢谢你... 好一点了...",
+   "v3": "[weak] 谢谢你... [soft] 好一点了...",
+   "stability": 0.5
+  },
+  {
+   "file": "thanks_02.mp3",
+   "text": "谢谢你，一直陪着我。",
+   "v3": "[soft] 谢谢你... 一直陪着我。",
+   "stability": 0.5
+  }
+ ]
+}

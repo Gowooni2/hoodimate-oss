@@ -1,0 +1,43 @@
+name: hoodimong
+description: Hoodimate - a virtual pet + AI assistant for the desktop (the Hoodies).
+publish_to: 'none'
+version: 1.2.0+6
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  window_manager: ^0.4.3
+  flutter_tts: ^4.2.1
+  audioplayers: ^6.0.0
+  http: ^1.2.0
+  path_provider: ^2.1.0
+  speech_to_text: ^7.5.0
+  screen_retriever: ^0.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  path_provider_platform_interface: ^2.1.3
+  plugin_platform_interface: ^2.1.8
+
+flutter:
+  uses-material-design: true
+  # Cute lettering, SIL OFL 1.1 (free for commercial apps): assets/fonts/OFL-*.txt
+  fonts:
+    - family: Jua
+      fonts:
+        - asset: assets/fonts/Jua-Regular.ttf
+    - family: ZCOOLKuaiLe
+      fonts:
+        - asset: assets/fonts/ZCOOLKuaiLe-Regular.ttf
+  assets:
+    - assets/characters/mongsil/
+    - assets/characters/mongsil/sprites/
+    - assets/characters/mongsil/anim/
+    - assets/voice_lines.json
+    - assets/fonts/OFL-Jua.txt
+    - assets/fonts/OFL-ZCOOLKuaiLe.txt

@@ -1,0 +1,5 @@
+// Copy to Signing.xcconfig, set your own team, and include it from AppInfo.xcconfig.
+// 1. Apple Developer → Membership → Team ID (10 chars).
+// 2. DEVELOPMENT_TEAM = <your Team ID>.
+// 3. Replace YOURTEAMID in the entitlements and GroupChannel id.
+// 4. Build: flutter build macos --dart-define=EDITION=lite.

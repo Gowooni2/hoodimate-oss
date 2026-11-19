@@ -1,0 +1,222 @@
+{
+ "greeting": [
+  {
+   "file": "greeting_01.mp3",
+   "text": "앗! 주인님 왔다아~!",
+   "v3": "[excited] 앗! 주인님 왔다아~!",
+   "stability": 0.3
+  },
+  {
+   "file": "greeting_02.mp3",
+   "text": "좋은 아침! 오늘도 같이 있자!",
+   "v3": "[cheerful] 좋은 아침! [giggles] 오늘도 같이 있자!",
+   "stability": 0.35
+  },
+  {
+   "file": "greeting_03.mp3",
+   "text": "안녕안녕~ 보고 싶었어!",
+   "v3": "[happy] 안녕안녕~! 보고 싶었어!",
+   "stability": 0.3
+  }
+ ],
+ "eating": [
+  {
+   "file": "eating_01.mp3",
+   "text": "우와, 밥이다! 냠냠냠...",
+   "v3": "[excited] 우와, 밥이다! [munching] 냠냠냠...",
+   "stability": 0.3
+  },
+  {
+   "file": "eating_02.mp3",
+   "text": "음~ 맛있다아. 잘 먹었어!",
+   "v3": "[satisfied] 음~ 맛있다아. [giggles] 잘 먹었어!",
+   "stability": 0.4
+  },
+  {
+   "file": "eating_03.mp3",
+   "text": "배고파아... 밥 줘어...",
+   "v3": "[whiny] 배고파아... 밥 줘어...",
+   "stability": 0.35
+  }
+ ],
+ "sick": [
+  {
+   "file": "sick_01.mp3",
+   "text": "으으... 몸이 안 좋아...",
+   "v3": "[weak] 으으... 몸이 안 좋아...",
+   "stability": 0.5
+  },
+  {
+   "file": "sick_02.mp3",
+   "text": "아파... 조금만 쉴래...",
+   "v3": "[sighs] 아파... 조금만 쉴래...",
+   "stability": 0.5
+  },
+  {
+   "file": "sick_03.mp3",
+   "text": "머리가 띵해...",
+   "v3": "[groggy] 머리가 띵해... [sniffles]",
+   "stability": 0.5
+  }
+ ],
+ "rain": [
+  {
+   "file": "rain_01.mp3",
+   "text": "어? 비 온다! 우산 챙겨!",
+   "v3": "[curious] 어? 비 온다! [excited] 주인님, 우산 챙겨!",
+   "stability": 0.35
+  },
+  {
+   "file": "rain_02.mp3",
+   "text": "톡, 톡... 빗소리 좋다아~",
+   "v3": "[calm] 톡, 톡... 빗소리 좋다아~",
+   "stability": 0.5
+  },
+  {
+   "file": "rain_03.mp3",
+   "text": "으, 축축해...",
+   "v3": "[pouting] 으, 축축해...",
+   "stability": 0.4
+  }
+ ],
+ "hot": [
+  {
+   "file": "hot_01.mp3",
+   "text": "헥헥... 더워, 녹겠다아...",
+   "v3": "[panting] 헥헥... 더워, 녹겠다아...",
+   "stability": 0.35
+  },
+  {
+   "file": "hot_02.mp3",
+   "text": "시원한 거 줘어~",
+   "v3": "[whiny] 시원한 거 줘어~",
+   "stability": 0.35
+  },
+  {
+   "file": "hot_03.mp3",
+   "text": "덥다 더워...",
+   "v3": "[exhausted] 덥다 더워... [sighs]",
+   "stability": 0.45
+  }
+ ],
+ "happy": [
+  {
+   "file": "happy_01.mp3",
+   "text": "야호! 신난다!",
+   "v3": "[excited] 야호! 신난다!",
+   "stability": 0.25
+  },
+  {
+   "file": "happy_02.mp3",
+   "text": "헤헤, 너무 좋아!",
+   "v3": "[giggles] 헤헤, 너무 좋아!",
+   "stability": 0.3
+  }
+ ],
+ "celebrating": [
+  {
+   "file": "celebrating_01.mp3",
+   "text": "우와아! 최고야, 최고!",
+   "v3": "[cheering] 우와아! 최고야, 최고!",
+   "stability": 0.25
+  }
+ ],
+ "sad": [
+  {
+   "file": "sad_01.mp3",
+   "text": "힝... 속상해...",
+   "v3": "[sad] 힝... 속상해...",
+   "stability": 0.45
+  },
+  {
+   "file": "sad_02.mp3",
+   "text": "나 울 것 같아...",
+   "v3": "[sniffles] 나... 울 것 같아...",
+   "stability": 0.45
+  }
+ ],
+ "bored": [
+  {
+   "file": "bored_01.mp3",
+   "text": "심심해애...",
+   "v3": "[sighs] 심심해애...",
+   "stability": 0.45
+  },
+  {
+   "file": "bored_02.mp3",
+   "text": "주인님, 나랑 놀아줘~",
+   "v3": "[pleading] 주인님, 나랑 놀아줘~",
+   "stability": 0.35
+  }
+ ],
+ "sleepy": [
+  {
+   "file": "sleepy_01.mp3",
+   "text": "하아암... 졸려...",
+   "v3": "[yawns] 하아암... 졸려...",
+   "stability": 0.5
+  },
+  {
+   "file": "sleepy_02.mp3",
+   "text": "나 이제 잘래... 잘 자...",
+   "v3": "[sleepy] 나 이제 잘래... [whispers] 잘 자...",
+   "stability": 0.5
+  }
+ ],
+ "idle": [
+  {
+   "file": "idle_01.mp3",
+   "text": "음~ 음음~",
+   "v3": "[humming] 음~ 음음~",
+   "stability": 0.5
+  },
+  {
+   "file": "idle_02.mp3",
+   "text": "헤헤, 기분 좋다~",
+   "v3": "[content] 헤헤, 기분 좋다~",
+   "stability": 0.4
+  }
+ ],
+ "pet": [
+  {
+   "file": "pet_01.mp3",
+   "text": "헤헤, 좋아~",
+   "v3": "[giggles] 헤헤, 좋아~",
+   "stability": 0.35
+  },
+  {
+   "file": "pet_02.mp3",
+   "text": "으음~ 더 쓰다듬어 줘...",
+   "v3": "[content sigh] 으음~ 더 쓰다듬어 줘...",
+   "stability": 0.4
+  }
+ ],
+ "tickle": [
+  {
+   "file": "tickle_01.mp3",
+   "text": "꺄하하! 간지러워!",
+   "v3": "[laughing] 꺄하하! 간지러워!",
+   "stability": 0.2
+  },
+  {
+   "file": "tickle_02.mp3",
+   "text": "히히, 그만, 그만~!",
+   "v3": "[giggling] 히히, 그만, 그만~!",
+   "stability": 0.2
+  }
+ ],
+ "thanks": [
+  {
+   "file": "thanks_01.mp3",
+   "text": "고마워... 조금 나아졌어...",
+   "v3": "[weak] 고마워... [soft] 조금 나아졌어...",
+   "stability": 0.5
+  },
+  {
+   "file": "thanks_02.mp3",
+   "text": "옆에 있어 줘서... 고마워.",
+   "v3": "[soft] 옆에 있어 줘서... 고마워.",
+   "stability": 0.5
+  }
+ ]
+}
